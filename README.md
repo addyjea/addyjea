@@ -18,4 +18,4 @@ I'm a PhD candidate at Texas A&M University where I use astronomical data to lea
 
 See my publications here! https://ui.adsabs.harvard.edu/user/libraries/b9D88AkvQCiecfAOt86Qkw
 
-Aaaand see my cv here! https://github/addyjea/cv
+And see my cv here! https://github.com/addyjea/cv
