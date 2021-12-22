@@ -29,3 +29,5 @@ Color - purple 🦄
 Particle accelerator - SPACE 🌟
 
 Video game soundtrack - Celeste & Persona 5 💿
+
+Non-thermal emission: inverse compton scattering ✨
