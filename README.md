@@ -20,6 +20,7 @@ See my publications here! https://ui.adsabs.harvard.edu/user/libraries/b9D88AkvQ
 
 And see my cv here! https://github.com/addyjea/cv
 
+<!--
 ### Favorites:
 
 Telescope - the High Altitude Water Cherenkov detector 🏔
@@ -31,3 +32,4 @@ Particle accelerator - SPACE 🌟
 Video game soundtrack - Celeste 💿
 
 Type of non-thermal radiation - inverse compton scattering 🪄
+-->
