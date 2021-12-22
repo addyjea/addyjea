@@ -30,4 +30,4 @@ Particle accelerator - SPACE 🌟
 
 Video game soundtrack - Celeste 💿
 
-Non-thermal radiation type - inverse compton scattering ✨
+Type of non-thermal radiation - inverse compton scattering ✨
