@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PhD candidate at Texas A&M University where I use astronomical data to learn more about the nature of dark matter and the high-energy (GeV+) Universe. I frequently work with Fermi-LAT and HAWC data. I also really like globular clusters.
+I'm a PhD candidate at Texas A&M University where I use astronomical data to learn more about the nature of dark matter and the high-energy Universe. I frequently work with Fermi-LAT and HAWC data. I also really like globular clusters.
 
 See my publications here! https://ui.adsabs.harvard.edu/user/libraries/b9D88AkvQCiecfAOt86Qkw
 
